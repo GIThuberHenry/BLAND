@@ -1,6 +1,6 @@
 # BLAND.
 
-![preview](https://pasteboard.co/0FDSowFqXqMd.png)
+![preview](/image.png)
 
 Worked with 2 Game Dev member creating BLAND, a visual novel game build with Renpy Engine. Inspired by well known visual novel "Doki Doki Literature Club" by Team Salvato and "Cooking Companion" by Deer Dear Studio. A story-based game with plot twist and break the 4th wall experience.
 

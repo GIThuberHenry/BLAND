@@ -6,12 +6,13 @@ BLAND. is a VN-based game that tells the story of our Main Character who is give
 
 All Credit to Renpy.
 
-##HOW TO PLAY
+## HOW TO PLAY
 
 1. Download zip
 2. Extract zip 
 3. Run BLAND.exe
 4. Play
+
 
 > [!WARNING]
 > BLAND. gameplay contains:
@@ -43,7 +44,7 @@ Question berbobot #3:
 Terserah kamu aja deh" is not weighted
 ```
 
-###BLAND has 5 Endings:
+### BLAND has 5 Endings:
 
 1.Ending "Ignorance is a Bliss" (Neutral Ending)
 How to achieve it:

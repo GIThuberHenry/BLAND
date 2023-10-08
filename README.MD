@@ -46,28 +46,28 @@ Terserah kamu aja deh" is not weighted
 
 ### BLAND has 5 Endings:
 
-##### 1.Ending "Ignorance is a Bliss" (Neutral Ending)
+#### 1. Ending "Ignorance is a Bliss" (Neutral Ending)
 How to achieve it:
 - Do not attend the meeting at all
 
 
-##### 2. Ending "Am I Dreaming" (Neutral Ending)
+#### 2. Ending "Am I Dreaming" (Neutral Ending)
 How to achieve it:
 - Have breakfast first and still attend the meeting
 
 
-##### 3. Ending "Hero" (Good Ending)
+#### 3. Ending "Hero" (Good Ending)
 How to achieve it:
 - Answer 3 weighted choices
 - Answer 2 weighted choices and accept Ciel's help when you are sick
 
 
-##### 4. Ending "Consequences of Neglection" (Bad Ending)
+#### 4. Ending "Consequences of Neglection" (Bad Ending)
 How to achieve it:
 - Do not accept Ciel's help when you are sick
 - Do not work on tasks when at home
 
 
-##### 5. True Ending
+#### 5. True Ending
 How to achieve it:
 - Answer 1 or fewer weighted choices and accept Ciel's help when you are sick

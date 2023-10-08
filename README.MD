@@ -1,71 +1,76 @@
+# BLAND.
 
-HOW TO PLAY
+Worked with 2 Game Dev member creating BLAND, a visual novel game build with Renpy Engine. Inspired by well known visual novel "Doki Doki Literature Club" by Team Salvato and "Cooking Companion" by Deer Dear Studio. A story-based game with plot twist and break the 4th wall experience.
 
-Cara bermain: 
-1. Extract zip 
-2. Run BLAND.exe
-3. selamat bermain
-===========================================================================================================================================
+BLAND. is a VN-based game that tells the story of our Main Character who is given the responsibility to complete their tasks by a game development team. The team consists of Theo, Claire, Ciel, Nava, and former member Hendry.
 
-OVERVIEW
+All Credit to Renpy.
 
-Bland merupakan game berbasis VN yang dimana menceritakan tentang MC yang diberikan tanggung jawab untuk menyelesaikan tugasnya oleh suatu 
-tim pengembang game. Dalam tim terdiri dari Theo, Claire, Ciel, Nava, dan mantan anggota Hendry.
+##HOW TO PLAY
 
-=========================================================================================================================================== 
-WARNING
+1. Download zip
+2. Extract zip 
+3. Run BLAND.exe
+4. Play
 
-bagi yang sensitif...
-Bland mengandung unsur flashing, disturbing, death, horror
-
-===========================================================================================================================================
-
-NOTICE
-
-Dalam beberapa ending(True Ending & Bad Ending), Bland akan membuat file .txt baru kedalam dektop komputer pemain. 
-Jika munculnya suatu error ketika melewati credit scene ending... harap untuk tidak dihiraukan dan merestart game.
-
-===========================================================================================================================================
+> [!WARNING]
+> BLAND. gameplay contains:
+> - Flashing
+> - Disturbing
+> - Death
+> - horror
 
 
-Terdapat poin "Optimisme" yang dapat didapat dari menjawab choice yang benar
-+========================================================+
-|Pertanyaan choice yang berbobot:		 	             |
-|							                             |
-|Pertanyaan berbobot #1:				                 |
-|"Tentu saja!" berbobot					                 |
-|"Aku juga masih belajar" tidak berbobot		         |
-|							                             |
-|Pertanyaan berbobot #2:				                 |
-|"Senang bisa bekerja sama dengan kalian!" berbobot	     |
-|"mohon bantuannya semua!" tidak berbobot		         |
-|							                             |
-|pertanyaan berbobot #3:				                 |
-|"Tentu saja bisa!" berbobot			    	         |
-|Terserah kamu aja deh" tidak berbobot              	 |
-+========================================================+
+> [!NOTE]
+> In some endings (True Ending & Bad Ending), Bland will create a new .txt file on the player's desktop computer. If an error occurs when passing the credit scene ending, please ignore it and restart the game.
 
-BLAND memiliki 5 Ending
 
-- Ending "Ignorance is a bliss" (Neutral Ending)
- Cara:
-  jangan menghadiri rapat sama sekali
+### GUIDE
 
--Ending "Am i Dreaming" (Neutral ending)
- Cara:
-  Sarapan terlebih dahulu, dan tetap masuk rapat 
+```
+There is an "Optimism" point that can be obtained by answering the correct choices:
+							                             
+Question #1:				                 
+"Tentu saja!" is weighted
+"Aku juga masih belajar" is not weighted
 
--Ending "Hero" (Good Ending)
- Cara: 
-  -menjawab 3 choice yang berbobot
-  -menjawab 2 choice yang berbobot dan menerima bantuan ciel saat kamu sakit
-  
--Ending "Consequences Of Neglection" (Bad Ending)
- Cara:
-  -tidak menerima bantuan ciel saat kamu sakit
-  -tidak mengerjakan tugas saat di rumah
+Question berbobot #2:
+"Senang bisa bekerja sama dengan kalian!" is weighted
+"mohon bantuannya semua!" is not weighted
 
--True ending
- Cara:
-  menjawab 1 atau kurang choice yang berbobot dan menerima bantuan ciel saat kamu sakit
- 
+Question berbobot #3:
+"Tentu saja bisa!" is weighted
+Terserah kamu aja deh" is not weighted
+```
+
+###BLAND has 5 Endings:
+
+1.Ending "Ignorance is a Bliss" (Neutral Ending)
+How to achieve it:
+
+ - Do not attend the meeting at all
+
+
+2. Ending "Am I Dreaming" (Neutral Ending)
+How to achieve it:
+
+ - Have breakfast first and still attend the meeting
+
+
+3. Ending "Hero" (Good Ending)
+How to achieve it:
+
+ - Answer 3 weighted choices
+ - Answer 2 weighted choices and accept Ciel's help when you are sick
+
+4. Ending "Consequences of Neglection" (Bad Ending)
+How to achieve it:
+
+ - Do not accept Ciel's help when you are sick
+ - Do not work on tasks when at home
+
+
+5. True Ending
+How to achieve it:
+
+ - Answer 1 or fewer weighted choices and accept Ciel's help when you are sick

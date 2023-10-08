@@ -2,7 +2,7 @@
 
 Worked with 2 Game Dev member creating BLAND, a visual novel game build with Renpy Engine. Inspired by well known visual novel "Doki Doki Literature Club" by Team Salvato and "Cooking Companion" by Deer Dear Studio. A story-based game with plot twist and break the 4th wall experience.
 
-BLAND. is a VN-based game that tells the story of our Main Character who is given the responsibility to complete their tasks by a game development team. The team consists of Theo, Claire, Ciel, Nava, and former member Hendry.
+BLAND. is a Indonesian VN-based game that tells the story of our Main Character who is given the responsibility to complete their tasks by a game development team. The team consists of Theo, Claire, Ciel, Nava, and former member Hendry.
 
 All Credit to Renpy.
 
@@ -52,26 +52,26 @@ How to achieve it:
  - Do not attend the meeting at all
 
 
-2. Ending "Am I Dreaming" (Neutral Ending)
+1. Ending "Am I Dreaming" (Neutral Ending)
 How to achieve it:
 
  - Have breakfast first and still attend the meeting
 
 
-3. Ending "Hero" (Good Ending)
+1. Ending "Hero" (Good Ending)
 How to achieve it:
 
  - Answer 3 weighted choices
  - Answer 2 weighted choices and accept Ciel's help when you are sick
 
-4. Ending "Consequences of Neglection" (Bad Ending)
+1. Ending "Consequences of Neglection" (Bad Ending)
 How to achieve it:
 
  - Do not accept Ciel's help when you are sick
  - Do not work on tasks when at home
 
 
-5. True Ending
+1. True Ending
 How to achieve it:
 
  - Answer 1 or fewer weighted choices and accept Ciel's help when you are sick
